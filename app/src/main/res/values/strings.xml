@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="NP">nom et prénom</string>
+    <string name="EMAIL">/@gmail.com</string>
+    <string name="phone">+212</string>
+    <string name="Addresse">addr</string>
+    <array name="villes">
+        <item>Marrakech</item>
+        <item>Casablanca</item>
+        <item>Rabat</item>
+    </array>
+</resources>
